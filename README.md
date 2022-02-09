@@ -18,4 +18,4 @@ it will spit out the jwt token created.
 In header section --> custom header -> authorisation.
 Bearer <jwttoken>
 
-welcome page would be printed after verification of the request.
+welcome page would be printed after verification of the request. 
