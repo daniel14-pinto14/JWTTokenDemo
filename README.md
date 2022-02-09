@@ -19,7 +19,7 @@ it will spit out the jwt token created.
 
 4)http://localhost:8080/ ( Get method)
 In header section --> custom header -> authorisation.
-Bearer <jwttoken>
+Bearer jwttoken printed in the previous request, please have space between bearer and jwt token
 
 
 	welcome page would be printed after verification of the request in the body.
